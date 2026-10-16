@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "avaliacao2",
+    "slug": "avaliacao2",
+    "scheme": "avaliacao2",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-sqlite"
+    ]
+  }
+}
